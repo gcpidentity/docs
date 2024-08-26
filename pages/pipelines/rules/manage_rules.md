@@ -2,7 +2,7 @@
 
 ## Create a rule
 
-Organization admins can create new rules using the [**Rules** page in **Organization settings**](#create-a-rule-using-the-buildkite-ui), as well as via the Buildkite [REST API](#create-a-rule-using-the-rest-api) and [GraphQL API](#create-a-rule-using-the-graphql-api).
+Organization admins can create new rules using the **Rules** page in **Organization settings**, as well as via the Buildkite [REST API](/docs/apis/rest-api) and [GraphQL API](/docs/apis/graphql-api).
 
 ### Using the Buildkite interface
 
@@ -85,7 +85,7 @@ where:
 
 ## Delete a rule
 
-Organization admins can delete rules using the [**Rules** page in **Organization settings**](#delete-a-rule-using-the-buildkite-ui), as well as via the Buildkite [REST API](#delete-a-rule-using-the-rest-api) and [GraphQL API](#delete-a-rule-using-the-graphql-api).
+Organization admins can delete rules using the **Rules** page in **Organization settings**, as well as via the Buildkite [REST API](/docs/apis/rest-api) and [GraphQL API](/docs/apis/graphql-api).
 
 ### Using the Buildkite interface
 
