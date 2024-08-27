@@ -1,4 +1,4 @@
-# Buildkite hosted agents
+# Buildkite hosted agents control
 
 Buildkite hosted agents provides a fully-managed platform on which you can run your agents, so that you don't have to manage agents in your own self-hosted environment.
 
